@@ -1,0 +1,16 @@
+[
+{
+  "modid": "popup",
+  "name": "Popup message",
+  "description": "Shows popup message when player is about to close Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Riftomer aka XpertikPro"],
+  "credits": "",
+  "logoFile": "popup_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
